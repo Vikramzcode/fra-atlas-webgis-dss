@@ -124,7 +124,7 @@ docker-compose up --build
 
 🧑‍🤝‍🧑 Team Members
 
-Vikram Sen – Team Lead, Data Science, ML, Backend, Database, GenAI
+Vikram Sen – Data Science, ML, Backend, Database, GenAI
 
 Rohit Singh – Frontend (React), DSA, WebGIS UI
 
@@ -132,7 +132,7 @@ Sanjay Dhakad – DevOps, Docker, Azure, Deployment
 
 Aman Dhakad – Frontend, Database, Integration
 
-Chanchal Gupta – Frontend, Data Analysis, Python Support
+Chanchal Gupta – Team Lead, Frontend, Data Analysis, Python Support
 
 Abhishek Chaudhary – Data Science, Backend (Flask), DSS Engine
 
